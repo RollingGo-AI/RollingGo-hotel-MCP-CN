@@ -97,13 +97,6 @@
       "headers": {
         "Authorization": "Bearer YOUR_API_KEY"
       }
-    },
-    "DIDA-Flight": {
-      "url": "https://mcp.rollinggo.cn/mcp/flight",
-      "type": "http",
-      "headers": {
-        "Authorization": "Bearer YOUR_API_KEY"
-      }
     }
   }
 }
@@ -118,11 +111,6 @@ claude mcp add \
   DIDA-Hotel \
   https://mcp.rollinggo.cn/mcp
 
-claude mcp add \
-  --transport http \
-  --header "Authorization: Bearer YOUR_API_KEY" \
-  DIDA-Flight \
-  https://mcp.rollinggo.cn/mcp/flight
 ```
 
 ### Codex
@@ -134,13 +122,6 @@ claude mcp add \
   "mcpServers": {
     "DIDA-Hotel": {
       "url": "https://mcp.rollinggo.cn/mcp",
-      "type": "streamable-http",
-      "headers": {
-        "Authorization": "Bearer YOUR_API_KEY"
-      }
-    },
-    "DIDA-Flight": {
-      "url": "https://mcp.rollinggo.cn/mcp/flight",
       "type": "streamable-http",
       "headers": {
         "Authorization": "Bearer YOUR_API_KEY"
@@ -159,13 +140,6 @@ claude mcp add \
   "mcpServers": {
     "DIDA-Hotel": {
       "url": "https://mcp.rollinggo.cn/mcp",
-      "type": "streamable-http",
-      "headers": {
-        "Authorization": "Bearer YOUR_API_KEY"
-      }
-    },
-    "DIDA-Flight": {
-      "url": "https://mcp.rollinggo.cn/mcp/flight",
       "type": "streamable-http",
       "headers": {
         "Authorization": "Bearer YOUR_API_KEY"
