@@ -48,7 +48,7 @@
 - ✅ **直签酒店资源** - 11万+直签酒店直连，价格库存实时响应，确保查询结果准确可订
 - ✅ **多元供应体系** - 整合500+全球供应商，涵盖各类酒店品牌，满足不同用户预订需求
 - ✅ **差异化价格优势** - 锚定OTA上游供应，海外酒店及上海、香港、日韩等热门目的地价格优势显著
-- ✅ **兼容性** - 支持 Cursor、Claude Code、Codex、Windsurf、Copilot 等 40 多种主流大模型代理，针对ClawHub/扣子/Qclaw等Agent 平台，还提供[DIDA全能订机票酒店Skill](https://rollinggo.store/solutions/skills)
+- ✅ **兼容性** - 支持 Cursor、Claude Code、Codex、Windsurf、Copilot 等 40 多种主流大模型代理，针对ClawHub/扣子/Qclaw等Agent 平台，还提供[全能订酒店Skill](https://rollinggo.store/solutions/skills)
 - ✅ **开发者返佣** - 接入即可按国家设置加价比例，当用户通过你的工具完成预订，对应金额将作为返佣，订单、收益、提现状态实时可查，灵活提现
   
 ## 适合用户
