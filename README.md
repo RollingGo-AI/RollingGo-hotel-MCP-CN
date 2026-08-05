@@ -223,7 +223,6 @@ AI 会自动调用 `searchHotels` Tool，返回酒店列表。
 ## 使用示例
 ### 示例1：酒店盯价提醒
 > "帮我监控杭州西溪湿地附近这家酒店"
-<img width="350" height="201" alt="acea3df24e3758ade63951aee025e586" src="https://github.com/user-attachments/assets/e6713298-cecc-47c9-8c14-a03deeb665df" />
 
 ### 示例2：城市酒店搜索
 > "帮我看看未来三天内，杭州有哪些4星以上的酒店推荐？"
