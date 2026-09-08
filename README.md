@@ -12,7 +12,7 @@
 
 
 ## 项目简介
-**道旅酒店MCP**为 AI Agent 和 MCP 客户端提供酒店预订能力，它适合希望在 AI 产品中接入酒店交易能力的开发者、Agent 构建者、旅游产品团队和企业差旅场景，企业和个人均可完全免费一键接入，无调用量限制。
+**RollingGo酒店MCP**为 AI Agent 和 MCP 客户端提供酒店预订能力，它适合希望在 AI 产品中接入酒店交易能力的开发者、Agent 构建者、旅游产品团队和企业差旅场景，企业和个人均可完全免费一键接入，无调用量限制。
 
 🔍 按需求**智能筛选和比价**，省心挑酒店
 
@@ -36,14 +36,14 @@
 - **价格**：完全免费，无调用量限制
 - **接入方式**：参考本文档可自助完成，适合需要短时间完成快速原型验证和工具开发
 
-道旅MCP还提供OAuth 2.0 授权码模式，提供7个工具，包括：getHotelSearchTags, searchHotels, getHotelDetail, hotelPriceConfirm, searchHotelOrders等。该模式适合企业级生产应用深度集成，需商务对接contact@rollinggo.ai。
+RollingGo酒店MCP还提供OAuth 2.0 授权码模式，提供7个工具，包括：getHotelSearchTags, searchHotels, getHotelDetail, hotelPriceConfirm, searchHotelOrders等。该模式适合企业级生产应用深度集成，需商务对接contact@rollinggo.ai。
 > 如果你是国际用户，或者你的目标用户为中国以外的国际化国家，请参考 [Dida-Hotel-MCP-Global](https://github.com/DIDA-AI/Dida-Hotel-MCP-Global)。该版本支持信用卡支付，适合非中国大陆地区的业务场景。
 
 
 
 ## MCP亮点
 - ✅ **实时库存价确** - 库存直连+实时价格确认能力，信息零延迟，查询结果均可直接预订
-- ✅ **成熟供应链保障** - 全球第三大酒旅B2B官方数据源，14年旅行产品供应链积累，全链路API直连
+- ✅ **成熟供应链保障** - 官方数据源，多年旅行产品供应链积累，全链路API直连
 - ✅ **海量酒店覆盖** - 坐拥200万+酒店资源，覆盖全球主要目的地
 - ✅ **直签酒店资源** - 11万+直签酒店直连，价格库存实时响应，确保查询结果准确可订
 - ✅ **多元供应体系** - 整合500+全球供应商，涵盖各类酒店品牌，满足不同用户预订需求
