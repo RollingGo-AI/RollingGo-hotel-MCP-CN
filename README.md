@@ -1,4 +1,4 @@
-# 道旅RollingGo酒店MCP | RollingGo— Hotel Search & Booking MCP
+# RollingGo酒店MCP | RollingGo— Hotel Search & Booking MCP
 
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/DIDA-AI/DIDA-Hotel-MCP-CN/releases)
 [![ModelScope](https://img.shields.io/badge/ModelScope-Rank%237-brightgreen.svg)](https://modelscope.cn/)
