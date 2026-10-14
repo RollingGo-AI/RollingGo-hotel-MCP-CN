@@ -307,7 +307,7 @@ AI 会自动调用 `searchHotels` Tool，返回酒店列表。
 
 
 ## 🤝技术支持
-感谢每一位开发者的交流、分享与反馈，让DIDA的迭代更高效。
+感谢每一位开发者的交流、分享与反馈，让我们的迭代更高效。
 
 加入微信群，核心开发团队会全程在线，协助搞定环境配置、接口调试，一起跑通第一个成功的酒店预订调用，零障碍快速上线。
 
@@ -321,7 +321,7 @@ AI 会自动调用 `searchHotels` Tool，返回酒店列表。
 
 邮箱：[york.lu@dida.com](mailto:york.lu@dida.com)
 
-## ⚠ 附录：道旅Hotel MCP (OAuth) v2.3 更新说明
+## ⚠ 附录：RollingGo Hotel MCP (OAuth) v2.3 更新说明
 
 v2.3 优化了订单查询结构，新增多个订单详情字段，帮助 Agent 更好地处理入住、支付和取消场景。注：此更新仅适用于 OAuth 接入版本，非本文档所述的 API Key 版本。OAuth 版本需商务对接。
 
@@ -355,5 +355,5 @@ v2.3 优化了订单查询结构，新增多个订单详情字段，帮助 Agent
 
 #### **工具总数**： 7 个（V2.2 为 6 个）—— 新增 1 个，变更 2 个，未变更 4 个。
 ---
-**Made with ❤️ by DIDA Team**
+**Made with ❤️ by RollingGo Team**
 </div>
