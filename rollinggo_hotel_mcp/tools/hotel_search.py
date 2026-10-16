@@ -23,20 +23,20 @@ def register_search_hotels_tool(mcp: FastMCP) -> None:
             Field(description="地点类型。仅允许以下值之一：城市、机场、景点、火车站、地铁站、酒店、区/县、详细地址。必须与 place 语义一致。"),
         ],
         checkInParam: Annotated[
-            CheckInParam,
+            CheckInParam | None,
             Field(
                 description="入住参数对象。字段：adultCount（number，默认2）；checkInDate（string，YYYY-MM-DD）；stayNights（number，默认1）。"
             ),
         ] = None,
-        countryCode: Annotated[str, Field(description="国家二字码（ISO 3166-1 alpha-2，大写），如 CN、US、JP。在跨国家名歧义或明确限定国家时传入。")] = None,
+        countryCode: Annotated[str | None, Field(description="国家二字码（ISO 3166-1 alpha-2，大写），如 CN、US、JP。在跨国家名歧义或明确限定国家时传入。")] = None,
         filterOptions: Annotated[
-            FilterOptions,
+            FilterOptions | None,
             Field(
                 description="基础筛选对象。字段：distanceInMeter（number，距离上限，米）；starRatings（number[]，星级区间 [min,max]，0.0~5.0，步长0.5）。"
             ),
         ] = None,
         hotelTags: Annotated[
-            HotelTags,
+            HotelTags | None,
             Field(
                 description="标签筛选对象（高阶筛选）。字段：preferredTags（string[]，偏好标签）；requiredTags（string[]，必须命中）；excludedTags（string[]，排除标签）；preferredBrands（string[]，偏好品牌）；maxPricePerNight（number，每晚预算上限，人民币）；minRoomSize（number，最小房间面积，平方米）。"
             ),
