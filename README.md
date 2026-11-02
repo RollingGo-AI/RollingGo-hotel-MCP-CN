@@ -310,8 +310,7 @@ AI 会自动调用 `searchHotels` Tool，返回酒店列表。
 感谢每一位开发者的交流、分享与反馈，让我们的迭代更高效。
 
 加入微信群，核心开发团队会全程在线，协助搞定环境配置、接口调试，一起跑通第一个成功的酒店预订调用，零障碍快速上线。
-
-![Support WeChat](support-wehcat%20group.png)
+<img src="20261101-185134.jpeg" alt="Support WeChat" width="200">
 
 你可以在群内获得：
 - ✅ 接入配置指导
